@@ -1,3 +1,4 @@
+# yadr defaults
 tap "homebrew/bundle"
 brew "ctags"
 brew "ghi"
@@ -8,3 +9,20 @@ brew "reattach-to-user-namespace"
 brew "the_silver_searcher"
 brew "tmux"
 brew "zsh"
+
+# personal
+brew "poetry"
+brew "pyenv"
+
+tap "homebrew/cask"
+
+cask "rectangle"
+cask "spotify"
+
+cask "iterm2"
+cask "visual-studio-code"
+cask "tableplus"
+cask "docker"
+cask "alfred"
+cask "notion"
+cask "figma"
