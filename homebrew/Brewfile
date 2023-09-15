@@ -11,6 +11,7 @@ brew "tmux"
 brew "zsh"
 
 # personal
+brew "git-flow-avh"
 brew "poetry"
 brew "pyenv"
 
