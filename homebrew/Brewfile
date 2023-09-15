@@ -27,3 +27,7 @@ cask "docker"
 cask "alfred"
 cask "notion"
 cask "figma"
+
+tap "homebrew/cask-fonts"
+cask "font-cascadia-code"
+cask "font-cascadia-mono"

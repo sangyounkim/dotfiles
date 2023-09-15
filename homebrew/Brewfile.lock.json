@@ -6,6 +6,9 @@
       },
       "homebrew/cask": {
         "revision": "2cf6f7c11695d989337277c85f560770bdd06db6"
+      },
+      "homebrew/cask-fonts": {
+        "revision": "98121832979674cad09c2515283cc2e6cab8d000"
       }
     },
     "brew": {
@@ -691,6 +694,18 @@
         "version": "116.12.2",
         "options": {
           "full_name": "figma"
+        }
+      },
+      "font-cascadia-code": {
+        "version": "2111.01",
+        "options": {
+          "full_name": "font-cascadia-code"
+        }
+      },
+      "font-cascadia-mono": {
+        "version": "2111.01",
+        "options": {
+          "full_name": "font-cascadia-mono"
         }
       }
     }
