@@ -15,8 +15,6 @@ brew "git-flow-avh"
 brew "poetry"
 brew "pyenv"
 
-tap "homebrew/cask"
-
 cask "rectangle"
 cask "spotify"
 
