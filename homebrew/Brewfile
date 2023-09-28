@@ -18,6 +18,9 @@ brew "pyenv"
 
 cask "rectangle"
 cask "spotify"
+cask "appcleaner"
+cask "keyboardcleantool"
+cask "keepingyouawake"
 
 cask "iterm2"
 cask "visual-studio-code"
