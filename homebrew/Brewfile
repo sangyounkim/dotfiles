@@ -24,7 +24,6 @@ cask "keepingyouawake"
 
 cask "iterm2"
 cask "visual-studio-code"
-cask "jetbrains-toolbox"
 cask "tableplus"
 cask "docker"
 cask "alfred"
